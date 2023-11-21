@@ -1,8 +1,8 @@
 <h1>Hi there  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3>I'm Artem, a Backend Developer 🚀 from Russia 🇷🇺</h3>
+<h3>I'm Artem, a Backend Developer 🚀</h3>
 
-- 🚀 I’m currently working on <a href="https://github.com/vebulogmetra/autocaptionizer">"Autocaptionizer"</a>, <a href="https://github.com/vebulogmetra/task_manageer">"TaskManageer"</a>, <a href="https://weekapp.ru/">"Week"</a>
+- 🚀 I’m currently working on <a href="https://github.com/vebulogmetra/task_manageer">"TaskManageer"</a>, <a href="https://github.com/vebulogmetra/autocaptionizer">"Autocaptionizer"</a>, <a href="https://weekapp.ru/">"Week"</a>
 
 ---
 
