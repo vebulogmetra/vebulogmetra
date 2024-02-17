@@ -2,7 +2,7 @@
 
 <h3>I'm Artem, a Backend Developer 🚀</h3>
 
-- 🚀 I’m currently working on <a href="https://github.com/vebulogmetra/task_manageer">"TaskManageer"</a>, <a href="https://github.com/vebulogmetra/autocaptionizer">"Autocaptionizer"</a>, <a href="https://weekapp.ru/">"Week"</a>
+- 🚀 I’m currently working on <a href="https://github.com/vebulogmetra/ChronoManager">"ChronoManager"</a>, <a href="https://github.com/vebulogmetra/autocaptionizer">"Autocaptionizer"</a>, <a href="https://weekapp.ru/">"Week"</a>
 
 ---
 
