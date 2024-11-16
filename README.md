@@ -2,7 +2,7 @@
 
 <h3>I'm Artem, a Backend Developer 🚀</h3>
 
-- 🚀 I’m currently working on <a href="https://github.com/vebulogmetra/ChronoManager">"ChronoManager"</a>, <a href="https://github.com/vebulogmetra/autocaptionizer">"Autocaptionizer"</a>, <a href="https://weekapp.ru/">"Week"</a>
+- 🚀 I’m currently working on <a href="https://weekapp.ru/">"Week"</a> and Piallm
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### You can contact me via telegram and email
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/QXJ0ZW0)
+[![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=telegram)](https://t.me/vebulog_metra)
 
 📫 : <a href='mailto:vebulogmetra@yandex.ru'>vebulogmetra@yandex.ru</a>
 
